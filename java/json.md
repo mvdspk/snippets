@@ -10,7 +10,7 @@ import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 ```
 
-null value
+## Null value
 
 ```java
 import org.codehaus.jackson.map.annotate.JsonSerialize;
@@ -19,3 +19,4 @@ import org.codehaus.jackson.map.annotate.JsonSerialize;
 @JsonSerialize(include = JsonSerialize.Inclusion.NON_NULL)
 ```
 
+[generate Getter setter during run time](https://github.com/mvdspk/snippets/blob/main/java/index.md#generate-getter-setter-during-run-time)
