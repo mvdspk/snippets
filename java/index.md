@@ -2,6 +2,8 @@
 
 ## Pojos
 
+[for JSON pojos](https://github.com/mvdspk/snippets/blob/main/java/json.md)
+
 ### generate Getter setter during run time
 use lombook
 ```java
