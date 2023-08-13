@@ -1,5 +1,5 @@
 # snippets
 
 ## Java
-[click here](/java)
+[click here](./java)
 
