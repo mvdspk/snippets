@@ -2,7 +2,7 @@
 
 ## Pojos
 
-[for JSON pojos](/java/json)
+[for JSON pojos](/snippets/java/json)
 
 ### generate Getter setter during run time
 use lombook
